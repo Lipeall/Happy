@@ -15,7 +15,7 @@ function OrphanagesMap () {
             <aside>
                 <header>
                     <img src={mapMarketImg} alt="Happy" />
-                    <h2>Esclha um orfanato no mapa</h2>
+                    <h2>Escolha um orfanato no mapa</h2>
                     <p>Muitas crianças estão esperando a sua visita :)</p>                    
                 </header>
 
