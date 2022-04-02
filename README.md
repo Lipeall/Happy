@@ -4,9 +4,6 @@ Happy é um projeto de estudo criado em React que apresenta os orfanatos próxim
 ### Preview
 ![Legenda](https://raw.githubusercontent.com/Lipeall/react-map/main/doc/GIF%2012-28-2020%208-48-11%20PM.gif)
 
-## Motivação
-Atualização do meu primeiro projeto em React com TypeScript e Sass.
-
 ### Tecnologias
 
 * React.
